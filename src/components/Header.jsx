@@ -13,6 +13,13 @@ const HeaderContainer = styled("div")`
 const HeaderContent = styled("div")`
     display: flex;
     justify-content: space-between;
+
+    a {
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: 800;
+        color: #000;
+    }
 `
 
 const HeaderLinks = styled("div")`
