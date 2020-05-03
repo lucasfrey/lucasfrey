@@ -1,7 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
 import styled from "@emotion/styled";
-import Logo from "components/_ui/Logo";
 
 const FooterContainer = styled("div")`
     padding-top: 3.75em;
